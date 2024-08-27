@@ -1,0 +1,3 @@
+<?php $title = "Mon portfolio - accueil"; // Définir le titre de la page ?>
+<h2>Bonjour vous êtes sur la page d'accueil</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque sed nulla adipisci. Cumque aliquam amet blanditiis! Incidunt repudiandae consequuntur nesciunt, deserunt earum at nostrum quam odio velit minus molestias. Quam, repellat laboriosam. Dolorum sit officiis reiciendis facere dicta quasi dolor.</p> <!-- Message d'accueil -->
