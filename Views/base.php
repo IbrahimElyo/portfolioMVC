@@ -42,6 +42,9 @@
                         <li class="nav-item">
                             <a href="index.php?controller=creation&action=index" class="nav-link">Mes créations</a>
                         </li>
+                        <li class="nav-item">
+                            <a href="index.php?controller=contact&action=displayForm" class="nav-link">Mes créations</a>
+                        </li>
                     </ul>
                 </div>
             </div>
